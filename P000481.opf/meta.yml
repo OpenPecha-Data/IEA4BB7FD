@@ -1,15 +1,16 @@
-id: opecha:P000481
+id: P000481
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG15510
   title: གངས་ལྗོངས་ལྷ་ཡི་རྔ་སིལ་རབ་དགའ་དགྱེས་པའི་ཆོས་དབྱངས།
-  volume:
+  author: ''
+  volumes:
     d27c574045f7406eb751381c67c90c49:
       image_group_id: I1KG15843
       title: Volume 1 of gangs ljongs lha yi rnga sil rab dga' dgyes pa'i chos dbyangs/
       volume_number: 1
       total_pages: 520
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གངས་ལྗོངས་ལྷ་ཡི་རྔ་སིལ་རབ་དགའ་དགྱེས་པའི་ཆོས་དབྱངས།
   author: ''
